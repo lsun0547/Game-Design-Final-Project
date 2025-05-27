@@ -3,8 +3,7 @@
 **Sizeable Swine**  
 	You wake up next to a barn on the side of the road. Your stomach aches and growls. Looking up, you see a bunch of food on the ground. Why is it there? You don't care. You just need to eat. As you run over to the food, you realize your path is blocked. Blocked by what? Pigs. These sizable swine (big pigs, if you will) must have broken out of the barn and are now roaming freely. You don't care, but as you try to circle around them to get to the food, you're blocked. These pigs don't want you eating, and they're doing everything in their power (including shooting ham) to keep you away. Looking in your pockets, you find an infinite supply of metal spheres the size of your head. How did they get there? It doesn't matter. Armed with these spheres, you start fighting your way to a full stomach. <br>
  
-<a href="https://www.youtube.com/watch?v=IlN22H9dXM8" target="_blank">Demo Video</a>
-
+[Demo Video](https://www.youtube.com/watch?v=IlN22H9dXM8])
 ![image](https://github.com/user-attachments/assets/33adda58-7295-44a5-a3f3-c9e865c9e9ad)
 ![image](https://github.com/user-attachments/assets/e7a578f0-0180-4856-a086-89c3809e45ec)
 ![image](https://github.com/user-attachments/assets/9d25b0d0-82ce-43b5-af3c-336d0a55a6c7)
